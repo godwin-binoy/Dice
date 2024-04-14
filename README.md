@@ -7,3 +7,5 @@ A simple command line based Dice
 - Press enter
 
 The program will display a dice
+
+Author: https://github.com/Godwin-Binoy 
