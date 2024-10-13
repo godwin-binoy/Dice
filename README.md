@@ -8,4 +8,4 @@ A simple command line based Dice
 
 The program will display a dice
 
-Author: https://github.com/Godwin-Binoy 
+Author: https://github.com/godwin-binoy 
